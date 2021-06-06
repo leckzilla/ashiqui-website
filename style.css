@@ -1,0 +1,17 @@
+/* @media screen and (max-width: 500px) {
+  .navbar {
+    display: none;
+  }
+} */
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.navbar-brand {
+  font-family: "Redressed", cursive;
+}
+.nav-link {
+  color: black;
+  font-family: "Redressed", cursive;
+}
